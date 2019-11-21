@@ -1,1 +1,1 @@
-sr flip to jk flip converision using VERILOG HDL
+sr flip to jk flip conversion using VERILOG HDL
